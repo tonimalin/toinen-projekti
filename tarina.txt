@@ -12,3 +12,4 @@ Tehtävä 3: Committien harjoittelua nyt heti
 Oletuseditorin väärä konfiguraatio
 
 Jos committia luodessa tulostuu virheviesti error: cannot run : No such file or directory error: unable to start editor, varmista, että olet konfiguroinut oletuseditorin oikein (tämä tehtiin tehtävässä 2).
+ååååååååååååååååååååååååååå
